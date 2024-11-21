@@ -4,7 +4,7 @@ id: torbox-torrents
 name: TorBox Torrents
 description: "Torbox Torrents (300 requests/min)"
 language: en-US
-type: public
+type: semi-private
 encoding: UTF-8
 followredirect: false
 testlinktorrent: false
